@@ -1,0 +1,3 @@
+[submodule "doc_test.wiki"]
+	path = doc_test.wiki
+	url = git@github.com:rowlandcodes/doc_test.wiki
